@@ -18,6 +18,7 @@
     "@solid-primitives/scheduled": "1.1.0",
     "@solidjs/meta": "^0.28.6",
     "@solidjs/router": "^0.8.3",
+    "lume": "^0.3.0-alpha.27",
     "nprogress": "^0.2.0",
     "solid-heroicons": "^3.2.4",
     "solid-js": "^1.7.11",
