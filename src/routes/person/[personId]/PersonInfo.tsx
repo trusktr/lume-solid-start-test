@@ -72,8 +72,11 @@ export function PersonInfo(props) {
             <lume-box
               size="20 20 20"
 
+              // Note, this texture not working. Hmmmmm.
               //texture={profilePic()}
-              // Note, texture not working. Hmmmmm.
+              // But this works fine. Hmmmmm.
+              texture="https://docs.lume.io/textures/cement.jpg"
+
 
               mount-point="0.5 0.5 0.5"
               rotation={[rotationX()]}
